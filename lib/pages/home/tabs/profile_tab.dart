@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../components/icon_button_component.dart';
-import '../../../components/spacer__component.dart';
+import '../../../components/spacer_component.dart';
 
 class ProfileTab extends StatelessWidget {
   const ProfileTab({super.key});
